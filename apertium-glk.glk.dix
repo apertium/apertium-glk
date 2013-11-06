@@ -142,7 +142,7 @@
     <!-- SECTION: Verbs -->
     <e lm="کودن"><p><l>کود</l><r>کود</r></p><par n="کود/ن__vblex"/></e>
     <e lm="کودن"><p><l>بوکود</l><r>کود</r></p><par n="بوکود/ن__vblex"/></e>
-    <e lm="کودن"><p><l>بوکود</l><r>کود</r></p><par n="نوکود/ن__vblex"/></e>
+    <e lm="کودن"><p><l>نوکود</l><r>کود</r></p><par n="نوکود/ن__vblex"/></e>
   </section>
 
   <section id="regex" type="standard">
