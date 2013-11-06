@@ -103,7 +103,7 @@
 
     <!-- SECTION: Verbs -->
 
-    <pardef n="pres">
+    <pardef n="pers-1">
       <e><p><l>em</l><r><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r><s n="p2"/><s n="sg"/></r></p></e>
       <e><p><l>e</l><r><s n="p3"/><s n="sg"/></r></p></e>
@@ -112,12 +112,21 @@
       <e><p><l>idi</l><r><s n="p3"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="d/en__vblex">
-      <e><p><l></l><r>en<s n="vblex"/><s n="past"/></r></p><par n="pres"/></e>
+    <pardef n="pers-2">
+      <e><p><l>im</l><r><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>e</l><r><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>im</l><r><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>idi</l><r><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>idi</l><r><s n="p3"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="bid/en__vblex">
-      <e><p><l></l><r>en<s n="vblex"/><s n="prs"/></r></p><par n="pres"/></e>
+    <pardef n="d/en__vblex" c="imperfect (past cont.)">
+      <e><p><l></l><r>en<s n="vblex"/><s n="pii"/></r></p><par n="pers-2"/></e>
+    </pardef>
+
+    <pardef n="bid/en__vblex" c="preterite (past)">
+      <e><p><l></l><r>en<s n="vblex"/><s n="past"/></r></p><par n="pers-1"/></e>
     </pardef>
   </pardefs>
   <section id="main" type="standard">
