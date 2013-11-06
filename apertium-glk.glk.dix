@@ -94,27 +94,42 @@
   </sdefs>
   
   <pardefs>
+
+    <!-- SECTION: Nouns -->
     <pardef n="kitab__n">
       <e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>an</l><r><s n="n"/><s n="pl"/></r></p></e>
     </pardef>
-    <pardef n="bi">
-      <e><i>bi</i></e>
-      <e><i/></e>
+
+    <!-- SECTION: Verbs -->
+
+    <pardef n="pres">
+      <e><p><l>em</l><r><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>e</l><r><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>im</l><r><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>idi</l><r><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>idi</l><r><s n="p3"/><s n="pl"/></r></p></e>
     </pardef>
+
     <pardef n="d/en__vblex">
-      <e><p><l>em</l><r>en<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>i</l><r>en<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>e</l><r>en<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p><l>im</l><r>en<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>idi</l><r>en<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>idi</l><r>en<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l></l><r>en<s n="vblex"/><s n="past"/></r></p><par n="pres"/></e>
+    </pardef>
+
+    <pardef n="bid/en__vblex">
+      <e><p><l></l><r>en<s n="vblex"/><s n="prs"/></r></p><par n="pres"/></e>
     </pardef>
   </pardefs>
   <section id="main" type="standard">
+
+    <!-- SECTION: Nouns -->
     <e lm="kitab"><i>kitab</i><par n="kitab__n"/></e>
-    <e lm="den"><i>d</i><par n="d/en__vblex"/></e>
+
+    <!-- SECTION: Verbs -->
+    <e lm="den"><p><l>d</l><r>d</r></p><par n="d/en__vblex"/></e>
+    <e lm="den"><p><l>bid</l><r>d</r></p><par n="bid/en__vblex"/></e>
   </section>
+
   <section id="regex" type="standard">
     <e><re>[MCDXLVI]+</re><p><l/><r><s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><re>[a-z.]+@[a-z.]+</re><p><l/><r><s n="web"/></r></p></e>
