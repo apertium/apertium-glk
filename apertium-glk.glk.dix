@@ -126,6 +126,10 @@
       <e><p><l></l><r>ن<s n="vblex"/><s n="pii"/></r></p><par n="pers-2"/></e>
     </pardef>
 
+    <pardef n="نوکودن۲__vblex" c="negative imperfect (past cont.)">
+      <e><p><l>نوکود</l><r>نوکودن<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-2"/></e>
+    </pardef>
+
     <pardef n="بوکود/ن__vblex" c="preterite (past)">
       <e><p><l></l><r>ن<s n="vblex"/><s n="past"/></r></p><par n="pers-1"/></e>
     </pardef>
@@ -141,6 +145,7 @@
 
     <!-- SECTION: Verbs -->
     <e lm="کودن"><p><l>کود</l><r>کود</r></p><par n="کود/ن__vblex"/></e>
+    <e lm="کودن"><p><l>نوکود</l><r>کود</r></p><par n="نوکودن۲__vblex"/></e>
     <e lm="کودن"><p><l>بوکود</l><r>کود</r></p><par n="بوکود/ن__vblex"/></e>
     <e lm="کودن"><p><l>نوکود</l><r>کود</r></p><par n="نوکود/ن__vblex"/></e>
   </section>
