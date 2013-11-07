@@ -170,8 +170,8 @@
     </pardef>
     
     <pardef n="بز/ِئن__vblex" c="preterite (past)">
-      <e><p><l></l><r>ِئن<s n="vblex"/><s n="past"/></r></p><par n="pers-1-stem-zwnj-1sg"/></e>
-      <e><p><l>ه</l><r>ِئن<s n="vblex"/><s n="past"/></r></p><par n="pers-1-stem-zwnj-non1sg"/></e>
+      <e><p><l></l><r>ِئن<s n="vblex"/><s n="past"/></r></p><par n="pers-1-stem-vowel-zwnj-1sg"/></e>
+      <e><p><l>ه</l><r>ِئن<s n="vblex"/><s n="past"/></r></p><par n="pers-1-stem-vowel-zwnj-non1sg"/></e>
     </pardef>
     
     <pardef n="کود/ن__vblex" c="imperfect (past cont.)">
