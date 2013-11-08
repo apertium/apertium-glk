@@ -207,7 +207,7 @@
     
     <pardef n="ندَ/ئن__vblex" c="negative preterite (past)">
       <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-3-3sg"/></e>
+      <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
 
       <e><p><l>یی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
