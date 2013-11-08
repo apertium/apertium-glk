@@ -109,11 +109,11 @@
     </pardef>
 
     <pardef n="pers-1-3sg">
-      <e><p><l>ه</l><r><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>ه</l><r><s n="p3"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="pers-2-3sg">
-      <e><p><l>ی</l><r><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>ی</l><r><s n="p3"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="pers-3-3sg">
