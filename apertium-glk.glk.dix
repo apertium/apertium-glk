@@ -82,12 +82,12 @@
     <sdef n="sint"/>
     <sdef n="email"/>
     <sdef n="obj"/>
-    <sdef n="subj"/>
+    <sdef n="prs"/>
     <sdef n="subs"/>
     <sdef n="pprs"/>
     <sdef n="gen"/>
     <sdef n="comp"/>
-    <sdef n="pres"/>
+    <sdef n="pri"/>
     <sdef n="vaux"/>
     <sdef n="ND"/>
     <sdef n="GD"/>
@@ -134,39 +134,39 @@
     </pardef>
 
     <pardef n="کون__vblex" c="present">
-      <e><p><l></l><r><s n="vblex"/><s n="pres"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="pres"/></r></p><par n="pers-1-3sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="pres"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="pri"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="pri"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
     </pardef>
     
     <pardef n="بوکون__vblex" c="present subjunctive">
-      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-3sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
     </pardef>
     
     <pardef n="ببه__vblex" c="present subjunctive e-vowel">
-      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
     </pardef>
     
     <pardef n="بیبی__vblex" c="present subjunctive i-vowel">
-      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
     </pardef>
     
     <pardef n="نوکون__vblex" c="negative present">
-      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pres"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pres"/></r></p><par n="pers-1-3sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pres"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
     </pardef>
     
     <pardef n="نیبی__vblex" c="negative present i-vowel">
-      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
     </pardef>
     
     <pardef n="نبه__vblex" c="negative present e-vowel">
-      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
     </pardef>
     
     <pardef n="بوکود/ن__vblex" c="preterite (past)">
