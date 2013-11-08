@@ -139,10 +139,28 @@
       <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-rest"/></e>
     </pardef>
     
+    <pardef n="ببه__vblex" c="present subjunctive e-vowel">
+      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-3sg"/></e>
+    </pardef>
+    
+    <pardef n="بیبی__vblex" c="present subjunctive i-vowel">
+      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-rest"/></e>
+    </pardef>
+    
     <pardef n="نوکون__vblex" c="negative present">
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pres"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pres"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pres"/></r></p><par n="pers-1-rest"/></e>
+    </pardef>
+    
+    <pardef n="نیبی__vblex" c="negative present i-vowel">
+      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-rest"/></e>
+    </pardef>
+    
+    <pardef n="نبه__vblex" c="negative present e-vowel">
+      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="subj"/></r></p><par n="pers-1-3sg"/></e>
     </pardef>
     
     <pardef n="بوکود/ن__vblex" c="preterite (past)">
@@ -248,6 +266,11 @@
     <e lm="بوستن"><p><l>بوست</l><r>بوست</r></p><par n="کود/ن__vblex"/></e>
     <e lm="بوستن"><p><l>بوبوست</l><r>بوست</r></p><par n="بوکود/ن__vblex"/></e>
     <e lm="بوستن"><p><l>نوبوست</l><r>بوست</r></p><par n="نوکود/ن__vblex"/></e>
+    <e lm="بوستن"><p><l>ب</l><r>بوستن</r></p><par n="کون__vblex"/></e>
+    <e lm="بوستن"><p><l>بب</l><r>بوستن</r></p><par n="ببه__vblex"/></e>
+    <e lm="بوستن"><p><l>بیب</l><r>بوستن</r></p><par n="بیبی__vblex"/></e>
+    <e lm="بوستن"><p><l>نب</l><r>بوستن</r></p><par n="نبه__vblex"/></e>
+    <e lm="بوستن"><p><l>نیب</l><r>بوستن</r></p><par n="نیبی__vblex"/></e>
     <e lm="فیگیفتن"><p><l>فیگیفت</l><r>فیگیفت</r></p><par n="کود/ن__vblex"/></e>
     <e lm="فیگیفتن"><p><l>فیگیفت</l><r>فیگیفت</r></p><par n="بوکود/ن__vblex"/></e>
     <e lm="فیگیفتن"><p><l>فینگیفت</l><r>فینگیفت</r></p><par n="نوکود/ن__vblex"/></e>
