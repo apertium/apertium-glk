@@ -128,9 +128,9 @@
     </pardef>
 
     <pardef n="کون__vblex" c="present">
-      <e><p><l></l><r>ن<s n="vblex"/><s n="pres"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r>ن<s n="vblex"/><s n="pres"/></r></p><par n="pers-1-3sg"/></e>
-      <e><p><l></l><r>ن<s n="vblex"/><s n="pres"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="pres"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="pres"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="pres"/></r></p><par n="pers-1-rest"/></e>
     </pardef>
     
     <pardef n="بوکود/ن__vblex" c="preterite (past)">
