@@ -188,21 +188,21 @@
       <e><p><l></l><r>ن<s n="vblex"/><s n="pp"/></r></p><par n="pers-1-pp"/></e>
     </pardef>
     
-    <pardef n="بوشو/ئون__vblex" c="preterite (past)">
+    <pardef n="بوشو/ئون__vblex" c="preterite (past) o-vowel stem end">
       <e><p><l></l><r>ئون<s n="vblex"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r>ئون<s n="vblex"/><s n="past"/></r></p><par n="pers-3-3sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l></l><r>ئون<s n="vblex"/><s n="pp"/></r></p><par n="pers-3-pp"/></e>
     </pardef>
     
-    <pardef n="بز/ِئن__vblex" c="preterite (past)">
+    <pardef n="بز/ِئن__vblex" c="preterite (past) e-vowel stem end">
       <e><p><l></l><r>ِئن<s n="vblex"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r>ِئن<s n="vblex"/><s n="past"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l>ه‌ی</l><r>ِئن<s n="vblex"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l></l><r>ِئن<s n="vblex"/><s n="pp"/></r></p><par n="pers-1-pp"/></e>
     </pardef>
     
-    <pardef n="بدَ/ئن__vblex" c="preterite (past)">
+    <pardef n="بدَ/ئن__vblex" c="preterite (past) a-vowel stem end">
       <e><p><l></l><r>ئن<s n="vblex"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r>ئن<s n="vblex"/><s n="past"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l>ی</l><r>ئن<s n="vblex"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
@@ -223,7 +223,7 @@
       <e><p><l>ئون</l><r>ئون<s n="vblex"/><s n="inf"/></r></p></e>
     </pardef>
 
-    <pardef n="ز/ِئن__vblex" c="imperfect (past cont.)" e-vowel stem end>
+    <pardef n="ز/ِئن__vblex" c="imperfect (past cont.) e-vowel stem end>"
       <e><p><l>ه‌یی</l><r>ِئن<s n="vblex"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l>ه‌ی</l><r>ِئن<s n="vblex"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
       <e><p><l>ه‌ی</l><r>ِئن<s n="vblex"/><s n="pii"/></r></p><par n="pers-1-rest"/></e>
