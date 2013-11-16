@@ -241,6 +241,7 @@
       <e><p><l></l><r>ن<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r>ن<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l></l><r>ن<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r>ن<s n="vblex"/><s n="neg"/><s n="pp"/></r></p><par n="pers-1-pp"/></e>
 
       <e><p><l>ی</l><r>ن<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r>ن<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
@@ -252,6 +253,7 @@
       <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-3-3sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="pp"/></r></p><par n="pers-3-pp"/></e>
 
       <e><p><l>یی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
@@ -263,6 +265,7 @@
       <e><p><l></l><r>ئن<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r>ئن<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l>ه‌ی</l><r>ئن<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r>ئن<s n="vblex"/><s n="neg"/><s n="pp"/></r></p><par n="pers-1-pp"/></e>
 
       <e><p><l>ه‌یی</l><r>ئن<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l>ه‌ی</l><r>ئن<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
@@ -274,6 +277,7 @@
       <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="pp"/></r></p><par n="pers-1-pp"/></e>
 
       <e><p><l>یی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
