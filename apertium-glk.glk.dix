@@ -223,7 +223,7 @@
       <e><p><l>ئون</l><r>ئون<s n="vblex"/><s n="inf"/></r></p></e>
     </pardef>
 
-    <pardef n="ز/ِئن__vblex" c="imperfect (past cont.) e-vowel stem end>"
+    <pardef n="ز/ِئن__vblex" c="imperfect (past cont.) e-vowel stem end">
       <e><p><l>ه‌یی</l><r>ِئن<s n="vblex"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l>ه‌ی</l><r>ِئن<s n="vblex"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
       <e><p><l>ه‌ی</l><r>ِئن<s n="vblex"/><s n="pii"/></r></p><par n="pers-1-rest"/></e>
