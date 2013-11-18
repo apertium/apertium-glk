@@ -152,13 +152,12 @@
       <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     </pardef>
     
-    <pardef n="ببه__vblex" c="present subjunctive e-vowel">
+    <pardef n="ببه__vblex" c="present subjunctive 1sg/3sg for verb with i-vowel harmony">
       <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     </pardef>
     
-    <pardef n="بیبی__vblex" c="present subjunctive i-vowel">
+    <pardef n="بیبی__vblex" c="present subjunctive other endings for verb with i-vowel harmony">
       <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     </pardef>
@@ -167,17 +166,19 @@
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     </pardef>
     
-    <pardef n="نبه__vblex" c="negative present e-vowel">
-      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings"/></e>
+    <pardef n="نبه__vblex" c="negative present 1sg/3sg for verb with i-vowel harmony">
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
     </pardef>
     
-    <pardef n="نیبی__vblex" c="negative present i-vowel">
-      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
+    <pardef n="نیبی__vblex" c="negative present other endings for verb with i-vowel harmony">
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     </pardef>
     
@@ -193,6 +194,7 @@
       <e><p><l></l><r>ئون<s n="vblex"/><s n="past"/></r></p><par n="pers-3-3sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l></l><r>ئون<s n="vblex"/><s n="pp"/></r></p><par n="pers-3-pp"/></e>
+      <e><p><l></l><r>ئون<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
     </pardef>
     
     <pardef n="بز/ِئن__vblex" c="preterite (past) e-vowel stem end">
@@ -259,6 +261,7 @@
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l>ئون</l><r>ئون<s n="vblex"/><s n="neg"/><s n="inf"/></r></p></e>
+      <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
     </pardef>
     
     <pardef n="نز/ِئن__vblex" c="negative preterite (past) e-vowel stem end">
