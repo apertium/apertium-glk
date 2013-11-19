@@ -103,9 +103,13 @@
     </pardef>
 
     <!-- SECTION: Verbs -->
-
     <pardef n="imp_endings">
       <e><p><l/><r><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>یم</l><r><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>ید</l><r><s n="p2"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="imp_endings_1/2pl">
       <e><p><l>یم</l><r><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>ید</l><r><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
@@ -149,6 +153,11 @@
       <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     </pardef>
     
+    <pardef n="بد__vblex" c="present subjunctive for stems with vowels ending in a, with a special imperative 2sg">
+      <e><p><l>ن</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>  
+      <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p><par n="imp_endings_1/2pl"/></e>
+    </pardef>
+    
     <pardef n="ببه__vblex" c="present subjunctive 1sg/3sg for verb with i-vowel harmony">
       <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
@@ -161,11 +170,10 @@
     
     <pardef n="بیشی__vblex" c="special present subjunctive for شوئون because it has an irregular 2sg imperative which isn't built off this stem. See بوشو/ئون__vblex ">
       <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
-      <e><p><l>یم</l><r><s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>ید</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p><par n="imp_endings_1/2pl"/></e>
     </pardef>      
     
-    <pardef n="نوکون__vblex" c="negative present">
+    <pardef n="نوکون__vblex" c="negative present/subjunctive">
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
@@ -175,20 +183,34 @@
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     </pardef>
     
-    <pardef n="نبه__vblex" c="negative present 1sg/3sg for verb with i-vowel harmony">
+    <pardef n="ند__vblex" c="negative present/subjunctive for stems with vowels ending in a with a special negative imperative 2sg">
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l>ن</l><r><s n="vblex"/><s n="neg"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings_1/2pl"/></e>
+    </pardef>
+    
+    <pardef n="نبه__vblex" c="negative present/subjunctive 1sg/3sg for verb with i-vowel harmony">
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
     </pardef>
     
-    <pardef n="نیبی__vblex" c="negative present other endings for verb with i-vowel harmony">
+    <pardef n="نیبی__vblex" c="negative present/subjunctive other endings for verb with i-vowel harmony">
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     </pardef>
     
-    <pardef n="نیشی__vblex" c="special negative present subjunctive for شوئون because it has an irregular 2sg imperative which isn't built off this stem. See نوشو/ئون__vblex ">
+    <pardef n="نیشی__vblex" c="special negative present/subjunctive for شوئون because it has an irregular 2sg imperative which isn't built off this stem. See نوشو/ئون__vblex ">
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
-      <e><p><l>یم</l><r><s n="vblex"/><s n="neg"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>ید</l><r><s n="vblex"/><s n="neg"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings_1/2pl"/></e>
     </pardef>
     
     <pardef n="بوکود/ن__vblex" c="preterite (past)">
@@ -340,8 +362,8 @@
     <e lm="دَئن"><p><l>دَ</l><r>دَ</r></p><par n="دَ/ئن__vblex"/></e>
     <e lm="دَئن"><p><l>بدَ</l><r>دَ</r></p><par n="بدَ/ئن__vblex"/></e>
     <e lm="دَئن"><p><l>ندَ</l><r>دَ</r></p><par n="ندَ/ئن__vblex"/></e>
-    <e lm="دَئن"><p><l>بد</l><r>دَئن</r></p><par n="بوکون__vblex"/></e>
-    <e lm="دَئن"><p><l>ند</l><r>دَئن</r></p><par n="نوکون__vblex"/></e>
+    <e lm="دَئن"><p><l>بد</l><r>دَئن</r></p><par n="بد__vblex"/></e>
+    <e lm="دَئن"><p><l>ند</l><r>دَئن</r></p><par n="ند__vblex"/></e>
   </section>
 
   <section id="regex" type="standard">
