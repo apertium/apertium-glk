@@ -154,6 +154,9 @@
     </pardef>
     
     <pardef n="بد__vblex" c="present subjunctive for stems with vowels ending in a, with a special imperative 2sg">
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
       <e><p><l>ن</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>  
       <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p><par n="imp_endings_1/2pl"/></e>
     </pardef>
