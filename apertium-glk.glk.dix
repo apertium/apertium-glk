@@ -109,6 +109,12 @@
       <e><p><l>ید</l><r><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="imp_endings2">
+      <e><p><l/><r><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ییم</l><r><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>یید</l><r><s n="p2"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="imp_endings_1/2pl">
       <e><p><l>یم</l><r><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>ید</l><r><s n="p2"/><s n="pl"/></r></p></e>
@@ -199,12 +205,12 @@
     </pardef>
     
     <pardef n="نأ__vblex" c="negative present/subjunctive, a-vowel stem end, note: no imperative">
-      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-3sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
-      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="neg"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
     </pardef>
     
     <pardef n="ند__vblex" c="negative present/subjunctive for stems with vowels ending in a with a special negative imperative 2sg">
@@ -403,8 +409,8 @@
     <e lm="اَمون"><p><l>بأ</l><r>اَمون</r></p><par n="بأ__vblex"/></e>
     <e lm="اَمون"><p><l>نأ</l><r>اَمون</r></p><par n="نأ__vblex"/></e>
     <!--Idiosyncratic imperative forms-->
-    <e lm="اَمون"><p><l>بیأ</l><r>اَمون<s n="vblex"/><s n="imp"/></r></p><par n="imp_endings"/></e>
-    <e lm="اَمون"><p><l>نیأ</l><r>اَمون<s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings"/></e>
+    <e lm="اَمون"><p><l>بیأ</l><r>اَمون<s n="vblex"/><s n="imp"/></r></p><par n="imp_endings2"/></e>
+    <e lm="اَمون"><p><l>نیأ</l><r>اَمون<s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings2"/></e>
   </section>
 
   <section id="regex" type="standard">
