@@ -146,7 +146,7 @@
       <e><p><l></l><r><s n="vblex"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
     </pardef>
     
-    <pardef n="اَ__vblex" c="present">
+    <pardef n="اَ__vblex" c="present, a-vowel stem end">
       <e><p><l>ی</l><r><s n="vblex"/><s n="pri"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l>ی</l><r><s n="vblex"/><s n="pri"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l>ی</l><r><s n="vblex"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
@@ -159,7 +159,7 @@
       <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     </pardef>
     
-    <pardef n="بأ__vblex" c="present subjunctive, note: no imperative">
+    <pardef n="بأ__vblex" c="present subjunctive, a-vowel stem end, note: no imperative">
       <e><p><l>ی</l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l>ی</l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l>ی</l><r><s n="vblex"/><s n="prs"/></r></p><par n="pers-1-rest"/></e>
@@ -198,7 +198,7 @@
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     </pardef>
     
-    <pardef n="نأ__vblex" c="negative present/subjunctive, note: no imperative">
+    <pardef n="نأ__vblex" c="negative present/subjunctive, a-vowel stem end, note: no imperative">
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-3sg"/></e>
       <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pri"/></r></p><par n="pers-1-rest"/></e>
@@ -244,11 +244,11 @@
       <e><p><l></l><r>ن<s n="vblex"/><s n="pp"/></r></p><par n="pers-1-pp"/></e>
     </pardef>
     
-    <pardef n="بوشو/ئون__vblex" c="preterite (past) o-vowel stem end.">
-      <e><p><l></l><r>ئون<s n="vblex"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r>ئون<s n="vblex"/><s n="past"/></r></p><par n="pers-3-3sg"/></e>
-      <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
-      <e><p><l></l><r>ئون<s n="vblex"/><s n="pp"/></r></p></e>
+    <pardef n="بوشو__vblex" c="preterite (past) o-vowel stem end.">
+      <e><p><l></l><r><s n="vblex"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="past"/></r></p><par n="pers-3-3sg"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="pp"/></r></p></e>
     </pardef>
     
     <pardef n="بز/ِئن__vblex" c="preterite (past) e-vowel stem end">
@@ -370,9 +370,9 @@
     <e lm="فیگیفتن"><p><l>فیگیر</l><r>فیگیفتن</r></p><par n="بوکون__vblex"/></e>
     <e lm="فیگیفتن"><p><l>فینگیر</l><r>فیگیفتن</r></p><par n="نوکون__vblex"/></e>
     
-    <e lm="شوئون"><p><l>شو</l><r>شو</r></p><par n="شو/ئون__vblex"/></e>
-    <e lm="شوئون"><p><l>بوشو</l><r>شو</r></p><par n="بوشو/ئون__vblex"/></e>
-    <e lm="شوئون"><p><l>نوشو</l><r>شو</r></p><par n="نوشو/ئون__vblex"/></e>
+    <e lm="شوئون"><p><l>شو</l><r>شوئون</r></p><par n="شو/ئون__vblex"/></e>
+    <e lm="شوئون"><p><l>بوشو</l><r>شوئون</r></p><par n="بوشو/ئون__vblex"/></e>
+    <e lm="شوئون"><p><l>نوشو</l><r>شوئون</r></p><par n="نوشو/ئون__vblex"/></e>
     <!--Idiosyncratic imperative 2sg forms-->
     <e lm="شوئون"><p><l>بوشو</l><r>شوئون<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
     <e lm="شوئون"><p><l>بوشو</l><r>شوئون<s n="vblex"/><s n="neg"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -396,11 +396,12 @@
     <e lm="دَئن"><p><l>بد</l><r>دَئن</r></p><par n="بد__vblex"/></e>
     <e lm="دَئن"><p><l>ند</l><r>دَئن</r></p><par n="ند__vblex"/></e>
 
-    <e lm="اَمون"><p><l>اَمو</l><r>اَمو</r></p><par n="شو/ئون__vblex"/></e>
-    <e lm="اَمون"><p><l>بَمو</l><r>اَمو</r></p><par n="بوشو/ئون__vblex"/></e>
-    <e lm="اَمون"><p><l>نَمو</l><r>اَمو</r></p><par n="نوشو/ئون__vblex"/></e>
+    <e lm="اَمون"><p><l>اَمو</l><r>اَمون</r></p><par n="شو/ئون__vblex"/></e>
+    <e lm="اَمون"><p><l>بَمو</l><r>اَمون</r></p><par n="بوشو/ئون__vblex"/></e>
+    <e lm="اَمون"><p><l>نَمو</l><r>اَمون</r></p><par n="نوشو/ئون__vblex"/></e>
     <e lm="اَمون"><p><l>اَ</l><r>اَمون</r></p><par n="اَ__vblex"/></e>
     <e lm="اَمون"><p><l>بأ</l><r>اَمون</r></p><par n="بأ__vblex"/></e>
+    <e lm="اَمون"><p><l>نأ</l><r>اَمون</r></p><par n="نأ__vblex"/></e>
     <!--Idiosyncratic imperative forms-->
     <e lm="اَمون"><p><l>بیأ</l><r>اَمون<s n="vblex"/><s n="imp"/></r></p><par n="imp_endings"/></e>
     <e lm="اَمون"><p><l>نیأ</l><r>اَمون<s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings"/></e>
