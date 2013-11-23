@@ -273,10 +273,10 @@
     </pardef>
 
     <pardef n="شو__vblex" c="imperfect (past cont.) o-vowel stem end">
-      <e><p><l>یی</l><r>ئون<s n="vblex"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
-      <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="pii"/></r></p><par n="pers-1-rest"/></e>
-      <e><p><l>ئون</l><r>ئون<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>یی</l><r><s n="vblex"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="pii"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l>ئون</l><r><s n="vblex"/><s n="inf"/></r></p></e>
     </pardef>
 
     <pardef n="ز/ِئن__vblex" c="imperfect (past cont.) e-vowel stem end">
@@ -306,15 +306,15 @@
     </pardef>
     
     <pardef n="نوشو__vblex" c="negative preterite (past) o-vowel stem end.">
-      <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-3-3sg"/></e>
-      <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
-      <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="pp"/></r></p></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-3-3sg"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l></l><r><s n="vblex"/><s n="neg"/><s n="pp"/></r></p></e>
 
-      <e><p><l>یی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
-      <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
-      <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-1-rest"/></e>
-      <e><p><l>ئون</l><r>ئون<s n="vblex"/><s n="neg"/><s n="inf"/></r></p></e>
+      <e><p><l>یی</l><r><s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
+      <e><p><l>ی</l><r><s n="vblex"/><s n="neg"/><s n="pii"/></r></p><par n="pers-1-rest"/></e>
+      <e><p><l>ئون</l><r><s n="vblex"/><s n="neg"/><s n="inf"/></r></p></e>
     </pardef>
     
     <pardef n="نز/ِئن__vblex" c="negative preterite (past) e-vowel stem end">
