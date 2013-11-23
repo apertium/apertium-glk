@@ -272,7 +272,7 @@
       <e><p><l>ن</l><r>ن<s n="vblex"/><s n="inf"/></r></p></e>
     </pardef>
 
-    <pardef n="شو/ئون__vblex" c="imperfect (past cont.) o-vowel stem end">
+    <pardef n="شو__vblex" c="imperfect (past cont.) o-vowel stem end">
       <e><p><l>یی</l><r>ئون<s n="vblex"/><s n="pii"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="pii"/></r></p><par n="pers-2-3sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="pii"/></r></p><par n="pers-1-rest"/></e>
@@ -305,7 +305,7 @@
       <e><p><l>ن</l><r>ن<s n="vblex"/><s n="neg"/><s n="inf"/></r></p></e>
     </pardef>
     
-    <pardef n="نوشو/ئون__vblex" c="negative preterite (past) o-vowel stem end.">
+    <pardef n="نوشو__vblex" c="negative preterite (past) o-vowel stem end.">
       <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-1sg"/></e>
       <e><p><l></l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-3-3sg"/></e>
       <e><p><l>ی</l><r>ئون<s n="vblex"/><s n="neg"/><s n="past"/></r></p><par n="pers-1-rest"/></e>
@@ -370,9 +370,9 @@
     <e lm="فیگیفتن"><p><l>فیگیر</l><r>فیگیفتن</r></p><par n="بوکون__vblex"/></e>
     <e lm="فیگیفتن"><p><l>فینگیر</l><r>فیگیفتن</r></p><par n="نوکون__vblex"/></e>
     
-    <e lm="شوئون"><p><l>شو</l><r>شوئون</r></p><par n="شو/ئون__vblex"/></e>
-    <e lm="شوئون"><p><l>بوشو</l><r>شوئون</r></p><par n="بوشو/ئون__vblex"/></e>
-    <e lm="شوئون"><p><l>نوشو</l><r>شوئون</r></p><par n="نوشو/ئون__vblex"/></e>
+    <e lm="شوئون"><p><l>شو</l><r>شوئون</r></p><par n="شو__vblex"/></e>
+    <e lm="شوئون"><p><l>بوشو</l><r>شوئون</r></p><par n="بوشو__vblex"/></e>
+    <e lm="شوئون"><p><l>نوشو</l><r>شوئون</r></p><par n="نوشو__vblex"/></e>
     <!--Idiosyncratic imperative 2sg forms-->
     <e lm="شوئون"><p><l>بوشو</l><r>شوئون<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
     <e lm="شوئون"><p><l>بوشو</l><r>شوئون<s n="vblex"/><s n="neg"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -396,9 +396,9 @@
     <e lm="دَئن"><p><l>بد</l><r>دَئن</r></p><par n="بد__vblex"/></e>
     <e lm="دَئن"><p><l>ند</l><r>دَئن</r></p><par n="ند__vblex"/></e>
 
-    <e lm="اَمون"><p><l>اَمو</l><r>اَمون</r></p><par n="شو/ئون__vblex"/></e>
-    <e lm="اَمون"><p><l>بَمو</l><r>اَمون</r></p><par n="بوشو/ئون__vblex"/></e>
-    <e lm="اَمون"><p><l>نَمو</l><r>اَمون</r></p><par n="نوشو/ئون__vblex"/></e>
+    <e lm="اَمون"><p><l>اَمو</l><r>اَمون</r></p><par n="شو__vblex"/></e>
+    <e lm="اَمون"><p><l>بَمو</l><r>اَمون</r></p><par n="بوشو__vblex"/></e>
+    <e lm="اَمون"><p><l>نَمو</l><r>اَمون</r></p><par n="نوشو__vblex"/></e>
     <e lm="اَمون"><p><l>اَ</l><r>اَمون</r></p><par n="اَ__vblex"/></e>
     <e lm="اَمون"><p><l>بأ</l><r>اَمون</r></p><par n="بأ__vblex"/></e>
     <e lm="اَمون"><p><l>نأ</l><r>اَمون</r></p><par n="نأ__vblex"/></e>
