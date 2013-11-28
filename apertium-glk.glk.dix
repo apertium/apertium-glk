@@ -411,6 +411,16 @@
     <!--Idiosyncratic imperative forms-->
     <e lm="اَمون"><p><l>بیأ</l><r>اَمون<s n="vblex"/><s n="imp"/></r></p><par n="imp_endings2"/></e>
     <e lm="اَمون"><p><l>نیأ</l><r>اَمون<s n="vblex"/><s n="neg"/><s n="imp"/></r></p><par n="imp_endings2"/></e>
+    
+    <e lm="گفتن"><p><l>گ</l><r>گفتن</r></p><par n="کون__vblex"/></e>
+    <e lm="گفتن"><p><l>بگ</l><r>گفتن</r></p><par n="ببه__vblex"/></e>
+    <e lm="گفتن"><p><l>بیگی</l><r>گفتن</r></p><par n="بیبی__vblex"/></e>
+    <e lm="گفتن"><p><l>نگ</l><r>گفتن</r></p><par n="نبه__vblex"/></e>
+    <e lm="گفتن"><p><l>نیگی</l><r>گفتن</r></p><par n="نیبی__vblex"/></e>
+    <e lm="گفتن"><p><l>گفت</l><r>گفت</r></p><par n="کود/ن__vblex"/></e>
+    <e lm="گفتن"><p><l>بوگفت</l><r>گفت</r></p><par n="بوکود/ن__vblex"/></e>
+    <e lm="گفتن"><p><l>نوگفت</l><r>گفت</r></p><par n="نوکود/ن__vblex"/></e>
+
   </section>
 
   <section id="regex" type="standard">
